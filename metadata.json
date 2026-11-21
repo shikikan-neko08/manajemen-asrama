@@ -1,0 +1,6 @@
+{
+  "name": "SIM-Asrama — Sistem Manajemen Asrama",
+  "description": "Aplikasi web manajemen asrama siswa dan santri untuk sekolah dan pesantren: data penghuni, gedung & kamar, absensi, perizinan, pelanggaran, inventaris, dan laporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
